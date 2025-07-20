@@ -98,6 +98,18 @@ Hi! I'm Shreya, a passionate Android developer and tech enthusiast. I love build
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyagargg&layout=compact&theme=tokyonight" alt="Top languages used by shreyagargg" />
 </p>
 
+## 🧠 Problem Solving Journey
+<p style="font-size:16px;">
+I don’t just build — I also solve, think, and compete.
+</p>
+
+
+<p align="center">
+  <a href="https://leetcode.com/your-username/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/ShreyaGarg63?ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
+
 ## 💗 Featured Projects
 
 ### 📱 SyAi – Personal AI Assistant
@@ -117,4 +129,3 @@ You can reach me for collaboration, freelance work, or just to say hi! <br>
 📧 shreyagarg06031412@gmail.com <br>
 📍 Based in India | Open to Remote Opportunities
 </p>
-
