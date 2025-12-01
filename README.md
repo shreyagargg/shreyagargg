@@ -32,7 +32,7 @@ Hi! I'm Shreya, a passionate Android developer and tech enthusiast. I love build
 ## 🏆 Achievements
 
 <p style="font-size:16px;">
-• Solved 200+ questions on LeetCode <br>
+• Solved 350+ questions on LeetCode <br>
 • Participated in SRM Builds 4.0 and Hack JMI hackathon <br>
 • Competed in coding events like Code Auction
 </p>
@@ -55,6 +55,8 @@ Hi! I'm Shreya, a passionate Android developer and tech enthusiast. I love build
 
 ## 🖥️ Tech Stack
 
+
+
 - ### 🧑‍💻 Programming Languages
 
 <p>
@@ -63,6 +65,13 @@ Hi! I'm Shreya, a passionate Android developer and tech enthusiast. I love build
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+</p>
+
+- ### 🎨 Frontend Languages
+<p> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 </p>
 
 - ### 🛠️ Tools
@@ -73,6 +82,11 @@ Hi! I'm Shreya, a passionate Android developer and tech enthusiast. I love build
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+- ### 🖌️ Design Tools
+<p> 
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
 </p>
 
 - ### 📱 Platforms / Frameworks
