@@ -94,6 +94,7 @@ Hi! I'm Shreya, a passionate Android developer and tech enthusiast. I love build
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 - ### 📚 Python Libraries
@@ -123,6 +124,11 @@ I don’t just build — I also solve, think, and compete.
     <img src="https://leetcard.jacoblin.cool/ShreyaGarg63?ext=contest" alt="LeetCode Stats" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyagargg&label=Profile%20Views&color=F78DA7&style=flat" />
+</p>
+
 
 ## 💗 Featured Projects
 
