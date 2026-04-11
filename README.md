@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Developer;" alt="Typing Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Developer;Full+Stack+Developer" alt="Typing Roles" />
 </p>
 
 ## 💁‍♀️ About Me
 
 <p style="font-size:16px;">
-Hi! I'm Shreya, a passionate Android developer and tech enthusiast. I love building smart, meaningful apps that solve real-world problems. I enjoy experimenting with UI/UX, diving into AI-powered tools, and sharing knowledge with the community.
+Hi! I'm Shreya, a passionate Full Stack Developer and tech enthusiast. I love building smart, meaningful apps that solve real-world problems. I enjoy experimenting with UI/UX, diving into AI-powered tools, and sharing knowledge with the community.
 </p>
 
 ## 📬 Let's Connect
@@ -41,8 +41,8 @@ Hi! I'm Shreya, a passionate Android developer and tech enthusiast. I love build
 
 <p style="font-size:16px;">
 • 🧠 Polishing my DSA <br>
-• 💬 Advanced Android Development <br>
-• 🌐 Backend with Spring Boot (soon!) <br>
+• 💬 Advanced system design concepts <br>
+• 🌐 Backend with Node js <br>
 • 🤖 AI/ML tools & integrations
 </p>
 
@@ -132,15 +132,41 @@ I don’t just build — I also solve, think, and compete.
 
 ## 💗 Featured Projects
 
-### 📱 SyAi – Personal AI Assistant
+### SyAi – Personal AI Assistant
 
-<p style="font-size:16px;">
-A unified smart assistant designed to simplify your daily life. SyAi helps you manage everything from mood and finance tracking to reminders, alarms, notes, and even flowcharts — all in one place. It's your go-to hub for organizing activities and streamlining tasks effortlessly.
-</p>
+<p style="font-size:16px;"> A unified smart assistant designed to simplify your daily life. SyAi helps you manage everything from mood and finance tracking to reminders, alarms, notes, and even flowcharts — all in one place. It's your go-to hub for organizing activities and streamlining tasks effortlessly. </p>
 
-<a href="https://github.com/Nerd0Vidhan/SyAi-Public">
-  <img src="https://img.shields.io/badge/Check_it_Out-2EB67D?style=for-the-badge&logo=android&logoColor=white"/>
-</a>
+✨ Key Features
+
+🧠 Smart task & activity management <br>
+📊 Mood & finance tracking<br>
+⏰ Reminders, alarms & notes in one place<br>
+🔄 Flowchart-based thinking & planning
+
+🛠️ Tech Stack
+
+📱 Android App (Jetpack Compose) <br>
+⚙️ Backend: Node.js <br>
+🗄️ Databases: Room DB, PostgreSQL, MongoDB <br> <br>
+<a href="https://github.com/Nerd0Vidhan/SyAi-Public"> <img src="https://img.shields.io/badge/📱_Android_App-2EB67D?style=for-the-badge&logo=android&logoColor=white"/> </a>
+
+### Finance App Backend
+
+<p style="font-size:16px;"> A backend system for managing financial transactions with secure authentication and role-based access. It provides robust APIs for handling user data and generating insights like income, expenses, and summaries. </p>
+
+✨ Key Features
+
+🔐 JWT-based authentication system <br>
+📊 CRUD APIs for transaction management <br>
+📈 Dashboard APIs (total income, expenses, summary) <br>
+👥 Role-based access (Viewer, Analyst, Admin)
+
+🛠️ Tech Stack
+
+⚙️ Node.js <br>
+🗄️ PostgreSQL (Supabase) <br>
+🔑 JWT Authentication <br> <br>
+<a href="https://github.com/shreyagargg/finance-backend"> <img src="https://img.shields.io/badge/🖥️_Backend_Project-2EB67D?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
 
 ## 📫 Contact Me
 
@@ -149,3 +175,6 @@ You can reach me for collaboration, freelance work, or just to say hi! <br>
 📧 shreyagarg06031412@gmail.com <br>
 📍 Based in India | Open to Remote Opportunities
 </p>
+
+# Make it work, make it right, make it fast.
+
