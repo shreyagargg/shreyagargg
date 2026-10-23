@@ -25,7 +25,7 @@ I enjoy creating beautiful user experiences, developing Android applications, ex
   <a href="https://shreyagargg.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-9721a6?style=for-the-badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1I5BsMwc53vz5c0d2IaW3jt9UgVtsNz93/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1kZUydsdYg5AU9BomhA0OmANfa0g4XglJ/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/RESUME-2EB67D?style=for-the-badge&logoColor=white" alt="Resume Badge"/>
   </a>
 </p>
@@ -44,10 +44,9 @@ I enjoy creating beautiful user experiences, developing Android applications, ex
 
 ## Currently Learning
 
-* Advanced DSA
+* Next JS
 * System Design
 * Backend Development with Node.js
-* AI & ML Integrations
 
 ---
 
