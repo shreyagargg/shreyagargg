@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Developer;Full+Stack+Developer" alt="Typing Roles"/>
 </p>
 
+<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+
 ## About Me
 
 Hi! I'm **Shreya**, a passionate **Software Engineer** and **Full Stack Developer** who loves building meaningful applications that solve real-world problems.
@@ -63,33 +65,32 @@ I enjoy creating beautiful user experiences, developing Android applications, ex
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,c,javascript,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,c,javascript,html,css"/>
 </p>
 
 ### Frameworks & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=androidstudio,react,nodejs,firebase"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,react,nodejs,firebase"/>
 </p>
 
 ### Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
 </p>
 
 ### Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman"/>
 </p>
 
 ### Python Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/numpy/blue" />
 </p>
 
 ---
